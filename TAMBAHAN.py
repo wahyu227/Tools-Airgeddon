@@ -22,5 +22,6 @@ mengetik('mengumpulkan data!')
 mengetik('100%')
 mengetik ('memulai proses')
 mengetik ('menjalankan script')
+mengetik ('jangan lupa baca doa..........')
 
 subprocess.check_output(["am","start","https://www.youtube.com/channel/UC-0ArZPiMhpO4OghqyvEU5w"])
