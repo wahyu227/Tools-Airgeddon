@@ -46,6 +46,7 @@ echo -e $bu  "_______________________________________"
 sleep 1
 apt-get update -y
 apt-get upgrade -y
+apt-get install curl -y
 apt-get install git -y
 apt-get install php -y
 apt-get install wget -y
@@ -90,7 +91,7 @@ git clone https://github.com/hashcat/hashcat.git
 cd hashcat
 make
 make install
-cd
+cd ..
 
 git clone https://github.com/aircrack-ng/mdk4
 cd mdk4
