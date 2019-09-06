@@ -83,9 +83,12 @@ apt-get install reaver -y
 apt-get install dsniff -y
 apt-get install hostapd-wpe -y
 apt-get install crunch -y
+apt-get install mdk4
 
 clear
 figlet BENTAR LAGI GAN | lolcat
+
+cd
 
 git clone https://github.com/hashcat/hashcat.git
 cd hashcat
