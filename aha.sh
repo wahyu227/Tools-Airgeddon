@@ -83,10 +83,9 @@ apt-get install reaver -y
 apt-get install dsniff -y
 apt-get install hostapd-wpe -y
 apt-get install crunch -y
-apt-get install sudo
-apt-get install python-pip
-apt-get install python3-pip
-apt-get install mdk4
+apt-get install python-pip -y
+apt-get install python3-pip -y
+apt-get install mdk4 -y
 
 clear
 figlet BENTAR LAGI GAN | lolcat
