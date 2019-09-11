@@ -59,6 +59,7 @@ apt-get install iw -y
 apt-get install aircrack-ng -y
 apt-get install xterm -y
 apt-get install iproute2 -y
+apt-get install pciutils -y
 apt-get install sslstrip -y
 apt-get install asleap -y
 apt-get install bettercap -y
